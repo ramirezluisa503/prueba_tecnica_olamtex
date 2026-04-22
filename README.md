@@ -4,6 +4,7 @@ Luisa Ferndand Ramírez Osorio
 ## Número de contacto:
 3203215195
 ## Tiempo real para resolver la prueba 
+2 horas y media 
 
 # Prueba Técnica - Analista TICs (Olamtex)
 
